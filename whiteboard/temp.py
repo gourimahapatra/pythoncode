@@ -7,3 +7,4 @@ add = lambda x,y: x+y
 print(add(3,4))
 mul = lambda x,y,z : x*y*z
 print(mul(3,4,5))
+
